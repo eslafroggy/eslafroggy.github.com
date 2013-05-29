@@ -1,0 +1,79 @@
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
+
+body {
+	background-image: url("https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/537237_10152240841136758_1725961185_n.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;		
+}
+nav {
+	margin:0 0 50px 175px;
+}
+
+nav ul {
+	margin:0;
+	padding:0;
+	background:#000000;
+	border: 5px solid gray;
+	list-style-type:none;
+	overflow:hidden;
+	padding:20px;
+	text-decoration: none;
+	opacity:0.7;
+	width: 850px;
+}
+
+nav a {
+	display:block;
+	float:left;
+	font-size: 20px;
+	margin-right:30px;
+	text-align:center;
+	
+}
+
+.container {
+	text-align: center;
+	width:450px;
+	padding:10px;
+	border:5px solid gray;
+	margin:10px;
+	background:#000000;
+	color:#663333;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 18px;
+	opacity: 0.7;
+}
+
+h2, h3 {
+	background: #663333;
+	padding: 10px;
+	color: #FFFFFF;
+	border-radius:10px;
+	margin:0 auto;
+}
+
+p {
+	color:#FFFFFF;
+	text-decoration: underline;
+}
+
+li {
+	text-align: left;
+	color: #FFFFFF;
+}
+
+#social {
+	position:fixed;
+	bottom:0;
+	right:0;
+}
+
+/*div {
+	color:#663333;
+	font-family:Verdana;
+	font-size: 18px;
+}*/
+
+
+
